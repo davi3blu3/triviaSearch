@@ -5,7 +5,8 @@
     "address": "1602 21st Avenue South",
     "dayOfTheWeek": "Sunday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Drifter's",
@@ -13,7 +14,8 @@
     "address": "1008B Woodland St",
     "dayOfTheWeek": "Monday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Edley's (12 South)",
@@ -21,7 +23,8 @@
     "address": "2706 12th Avenue South",
     "dayOfTheWeek": "Monday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "ML Rose West",
@@ -29,7 +32,8 @@
     "address": "4408 Charlotte Avenue",
     "dayOfTheWeek": "Monday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Mellow Mushroom",
@@ -37,7 +41,8 @@
     "address": "212 21st Avenue South",
     "dayOfTheWeek": "Monday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Soulshine",
@@ -45,7 +50,8 @@
     "address": "1907 Division Street",
     "dayOfTheWeek": "Monday",
     "timeOfDay": "7pm",
-    "company": "Challenge Entertainment"
+    "company": "Challenge Entertainment",
+    "theme": ""
     },
     {
     "location": "Flying Saucer",
@@ -53,7 +59,8 @@
     "address": "111 10th Avenue South, #310",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "7:30pm",
-    "company": ""
+    "company": "",
+    "theme": ""
     },
     {
     "location": "Flying Saucer",
@@ -61,7 +68,8 @@
     "address": "111 10th Avenue South, #310",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "9:30pm",
-    "company": ""
+    "company": "",
+    "theme": ""
     },    
     {
     "location": "Edley's (East Nashville)",
@@ -69,7 +77,8 @@
     "address": "908 Main Street",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Edley's (Sylvan Park)",
@@ -77,7 +86,8 @@
     "address": "4500 Murphy Road",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Lipstick Lounge",
@@ -85,7 +95,8 @@
     "address": "1400 Woodland Street",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "7:30pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Crow's Nest",
@@ -93,7 +104,8 @@
     "address": "2221 Bandywood Drive",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "ML Rose (Melrose)",
@@ -101,7 +113,8 @@
     "address": "2535 8th Avenue South",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Rudie's Seafood and Sausage",
@@ -109,7 +122,8 @@
     "address": "1402 McGavock Pike",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "7pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Nama Sushi",
@@ -117,7 +131,8 @@
     "address": "2312 Elliston Place",
     "dayOfTheWeek": "Tuesday",
     "timeOfDay": "8:30pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Acme Feed & Seed",
@@ -125,7 +140,8 @@
     "address": "101 Broadway",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "6:30pm",
-    "company": "Geeks Who Drink"
+    "company": "Geeks Who Drink",
+    "theme": ""
     },
     {
     "location": "Tavern '96",
@@ -133,7 +149,8 @@
     "address": "501 Broadway",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "6pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Hurry Back",
@@ -141,7 +158,8 @@
     "address": "2212 Elliston Place",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "7pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "The Beer Sellar",
@@ -149,7 +167,8 @@
     "address": "107 Church Street",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Two Bits",
@@ -157,7 +176,8 @@
     "address": "1520 Demonbreun Street",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "7:30pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Gemantown Pub",
@@ -165,7 +185,8 @@
     "address": "708 Monroe St",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "The Slider House",
@@ -173,7 +194,8 @@
     "address": "1907 Division Street",
     "dayOfTheWeek": "Wednesday",
     "timeOfDay": "7pm",
-    "company": "Challenge Entertainment"
+    "company": "Challenge Entertainment",
+    "theme": ""
     },
     {
     "location": "The Basement East (Beast Pub)",
@@ -181,7 +203,8 @@
     "address": "917 Woodland Avenue",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "7:30pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "Two Bits",
@@ -189,7 +212,8 @@
     "address": "1520 Demonbreun Street",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "7:30pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "The Flipside",
@@ -197,7 +221,8 @@
     "address": "2403 12th Avenue South",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "8pm",
-    "company": "Nerdy Talk Trivia"
+    "company": "Nerdy Talk Trivia",
+    "theme": ""
     },
     {
     "location": "3 Crow Bar",
@@ -205,7 +230,8 @@
     "address": "1024 Woodland Street",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "Jackalope Brewing Co.",
@@ -213,7 +239,8 @@
     "address": "701 8th Avenue South",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
     },
     {
     "location": "House",
@@ -221,6 +248,87 @@
     "address": "712 51st Ave N",
     "dayOfTheWeek": "Thursday",
     "timeOfDay": "8pm",
-    "company": "Trivia Time"
+    "company": "Trivia Time",
+    "theme": ""
+    },
+    {
+    "location": "Jackson's Bar & Bistro",
+    "neighborhood": "Hillsboro Village",
+    "address": "1800 21st Ave S",
+    "dayOfTheWeek": "Wednesday", // ??
+    "timeOfDay": "",
+    "company": "",
+    "theme": ""
+    },
+    {
+    "location": "Germantown Pub",
+    "neighborhood": "Downtown",
+    "address": "708 Monroe Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "8pm",
+    "company": "",
+    "theme": ""
+    },
+    {
+    "location": "Noble's Kitchen and Beer Hall",
+    "neighborhood": "East Nashville",
+    "address": "974 Main Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "8pm",
+    "company": "",
+    "theme": ""
+    },
+    {
+    "location": "Beer Sellar",
+    "neighborhood": "Downtown",
+    "address": "107 Church Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "8pm",
+    "company": "",
+    "theme": ""
+    },
+    {
+    "location": "3 Crow Bar",
+    "neighborhood": "East Nashville",
+    "address": "",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": "",
+    "theme": ""
+    },
+    {
+    "location": "Beyond the Edge",
+    "neighborhood": "East Nashville",
+    "address": "",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "7:30pm",
+    "company": "Buzztime Trivia", // ??
+    "theme": ""
+    },
+    {
+    "location": "Homegrown Taproom",
+    "neighborhood": "Donelson",
+    "address": "2720 Old Lebanon Road",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time",
+    "theme": ""
+    },
+    {
+    "location": "Mercy Lounge",
+    "neighborhood": "Gulch",
+    "address": "1 Cannery Row",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "",
+    "theme": "Rock 'n Roll Trivia"
+    },
+    {
+    "location": "Greenhouse Bar",
+    "neighborhood": "Green Hills",
+    "address": "2211 Bandywood Drive",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": ""
     }
 ]
