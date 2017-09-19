@@ -1,0 +1,226 @@
+[
+    {
+    "location": "Kay Bob's",
+    "neighborhood": "Hillsboro Village",
+    "address": "1602 21st Avenue South",
+    "dayOfTheWeek": "Sunday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Drifter's",
+    "neighborhood": "East Nashville",
+    "address": "1008B Woodland St",
+    "dayOfTheWeek": "Monday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Edley's (12 South)",
+    "neighborhood": "12 South",
+    "address": "2706 12th Avenue South",
+    "dayOfTheWeek": "Monday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "ML Rose West",
+    "neighborhood": "Sylvan Park",
+    "address": "4408 Charlotte Avenue",
+    "dayOfTheWeek": "Monday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Mellow Mushroom",
+    "neighborhood": "Midtown",
+    "address": "212 21st Avenue South",
+    "dayOfTheWeek": "Monday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Soulshine",
+    "neighborhood": "Midtown",
+    "address": "1907 Division Street",
+    "dayOfTheWeek": "Monday",
+    "timeOfDay": "7pm",
+    "company": "Challenge Entertainment"
+    },
+    {
+    "location": "Flying Saucer",
+    "neighborhood": "Downtown",
+    "address": "111 10th Avenue South, #310",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "7:30pm",
+    "company": ""
+    },
+    {
+    "location": "Flying Saucer",
+    "neighborhood": "Downtown",
+    "address": "111 10th Avenue South, #310",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "9:30pm",
+    "company": ""
+    },    
+    {
+    "location": "Edley's (East Nashville)",
+    "neighborhood": "East Nashville",
+    "address": "908 Main Street",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Edley's (Sylvan Park)",
+    "neighborhood": "Sylvan Park",
+    "address": "4500 Murphy Road",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Lipstick Lounge",
+    "neighborhood": "East Nashville",
+    "address": "1400 Woodland Street",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "7:30pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Crow's Nest",
+    "neighborhood": "Green Hills",
+    "address": "2221 Bandywood Drive",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "ML Rose (Melrose)",
+    "neighborhood": "Melrose",
+    "address": "2535 8th Avenue South",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Rudie's Seafood and Sausage",
+    "neighborhood": "East Nashville",
+    "address": "1402 McGavock Pike",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "7pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Nama Sushi",
+    "neighborhood": "West Nashville",
+    "address": "2312 Elliston Place",
+    "dayOfTheWeek": "Tuesday",
+    "timeOfDay": "8:30pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Acme Feed & Seed",
+    "neighborhood": "Downtown",
+    "address": "101 Broadway",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "6:30pm",
+    "company": "Geeks Who Drink"
+    },
+    {
+    "location": "Tavern '96",
+    "neighborhood": "Downtown",
+    "address": "501 Broadway",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "6pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Hurry Back",
+    "neighborhood": "West Nashville",
+    "address": "2212 Elliston Place",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "7pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "The Beer Sellar",
+    "neighborhood": "Downtown",
+    "address": "107 Church Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Two Bits",
+    "neighborhood": "Midtown",
+    "address": "1520 Demonbreun Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "7:30pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Gemantown Pub",
+    "neighborhood": "Germantown",
+    "address": "708 Monroe St",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "The Slider House",
+    "neighborhood": "Midtown",
+    "address": "1907 Division Street",
+    "dayOfTheWeek": "Wednesday",
+    "timeOfDay": "7pm",
+    "company": "Challenge Entertainment"
+    },
+    {
+    "location": "The Basement East (Beast Pub)",
+    "neighborhood": "East Nashville",
+    "address": "917 Woodland Avenue",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "7:30pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "Two Bits",
+    "neighborhood": "Midtown",
+    "address": "1520 Demonbreun Street",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "7:30pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "The Flipside",
+    "neighborhood": "12 South",
+    "address": "2403 12th Avenue South",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": "Nerdy Talk Trivia"
+    },
+    {
+    "location": "3 Crow Bar",
+    "neighborhood": "East Nashville",
+    "address": "1024 Woodland Street",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "Jackalope Brewing Co.",
+    "neighborhood": "Gulch",
+    "address": "701 8th Avenue South",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    },
+    {
+    "location": "House",
+    "neighborhood": "the Nations",
+    "address": "712 51st Ave N",
+    "dayOfTheWeek": "Thursday",
+    "timeOfDay": "8pm",
+    "company": "Trivia Time"
+    }
+]
