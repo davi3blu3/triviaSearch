@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/davi3blu3/triviaSearch/issues"
   },
-  "homepage": "https://github.com/davi3blu3/triviaSearch#readme"
+  "homepage": "https://github.com/davi3blu3/triviaSearch#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
