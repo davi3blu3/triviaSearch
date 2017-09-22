@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/davi3blu3/triviaSearch#readme",
   "dependencies": {
+    "angular": "^1.6.6",
     "express": "^4.15.4"
   }
 }
